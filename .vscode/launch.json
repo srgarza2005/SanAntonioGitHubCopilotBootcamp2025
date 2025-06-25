@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Main Project",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/SanAntonioGitHubCopilotBootCamp2025/SanAntonioGitHubCopilotBootCamp2025.csproj"
+        },
+        {
+            "name": "UrlListApp",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/UrlListApp/UrlListApp.csproj"
+        }
+    ]
+}

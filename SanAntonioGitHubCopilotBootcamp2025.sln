@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanAntonioGitHubCopilotBootcamp2025", "SanAntonioGitHubCopilotBootcamp2025\SanAntonioGitHubCopilotBootcamp2025.csproj", "{AD0EDD9A-C4E9-40D2-AAE4-A12A5C6A7641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlListApp", "UrlListApp\UrlListApp.csproj", "{15FFDD7E-6520-45DA-A0A0-433D59D2E3C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0EDD9A-C4E9-40D2-AAE4-A12A5C6A7641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0EDD9A-C4E9-40D2-AAE4-A12A5C6A7641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0EDD9A-C4E9-40D2-AAE4-A12A5C6A7641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0EDD9A-C4E9-40D2-AAE4-A12A5C6A7641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15FFDD7E-6520-45DA-A0A0-433D59D2E3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FFDD7E-6520-45DA-A0A0-433D59D2E3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FFDD7E-6520-45DA-A0A0-433D59D2E3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FFDD7E-6520-45DA-A0A0-433D59D2E3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
