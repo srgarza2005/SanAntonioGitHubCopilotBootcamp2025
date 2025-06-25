@@ -5,7 +5,7 @@
             "name": "Main Project",
             "type": "dotnet",
             "request": "launch",
-            "projectPath": "${workspaceFolder}/SanAntonioGitHubCopilotBootCamp2025/SanAntonioGitHubCopilotBootCamp2025.csproj"
+            "projectPath": "${workspaceFolder}/SanAntonioGitHubCopilotBootCamp2025/SanAntonioGitHubCopilotBootcamp2025.csproj"
         },
         {
             "name": "UrlListApp",
